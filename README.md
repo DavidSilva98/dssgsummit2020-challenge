@@ -17,7 +17,7 @@ Our approach relies on Genetic Algorithms to generate keyboard solutions. This k
 
 The best solutions we found both for the Portuguese and English keyboard can be seen below:
 
-**INSERIR KEYBOARD DAS NOSSAS MELHORES SOLUÇÕES!**
+**<Insert best solution keyboard image here>**
 
 Reproducing results
 ------------
